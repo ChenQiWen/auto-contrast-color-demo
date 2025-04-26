@@ -10,6 +10,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@uiw/react-color": "^2.5.0",
+    "antd": "^5.24.8",
     "auto-contrast-color": "^1.0.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
