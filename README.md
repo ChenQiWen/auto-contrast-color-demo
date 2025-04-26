@@ -60,7 +60,7 @@
 ## 🔗 相关链接
 
 *   **auto-contrast-color npm 包**: [https://www.npmjs.com/package/auto-contrast-color](https://www.npmjs.com/package/auto-contrast-color)
-*   **auto-contrast-color GitHub 仓库**: [https://github.com/QuincyM/auto-contrast-color](https://github.com/QuincyM/auto-contrast-color) (如果这是你的库仓库地址，请替换)
+*   **auto-contrast-color GitHub 仓库**: [https://github.com/ChenQiWen/auto-contrast-color](https://github.com/ChenQiWen/auto-contrast-color) 
 
 ---
 
